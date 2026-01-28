@@ -1,36 +1,55 @@
-# Customer Segmentation using K-Means Clustering
+# Customer Segmentation using K-Means
 
 ## 📌 Project Overview
-This project focuses on segmenting customers based on their purchasing behavior using K-Means clustering. The goal is to identify distinct customer groups that can help businesses design targeted marketing strategies.
+This project performs customer segmentation using K-Means clustering on a mall customer dataset. The aim is to group customers based on annual income, spending score, and age to help businesses identify target groups for marketing strategies.
 
 ## 📊 Dataset
-- Source: Kaggle – Mall Customers Dataset
-- Features used:
+- Source: Kaggle – Mall Customer Dataset
+- Features:
+  - CustomerID
+  - Gender
   - Age
   - Annual Income (k$)
-  - Spending Score (1–100)
+  - Spending Score (1-100)
 
 ## 🛠 Tools & Technologies
 - Python
 - Pandas, NumPy
-- Matplotlib
 - Scikit-learn
+- Matplotlib, Seaborn
 - Jupyter Notebook
 
-## 📈 Methodology
-- Data preprocessing & feature scaling
-- Applied K-Means clustering
-- Determined optimal clusters using:
-  - Elbow Method
-  - Silhouette Score
+## 🔍 Methodology
+1. Data cleaning and preprocessing
+2. Feature scaling
+3. Applied K-Means clustering
+4. Determined optimal number of clusters using Elbow Method and Silhouette Score
+5. Visualized clusters and analyzed customer segments
 
-## ✅ Results
-Customers were grouped into meaningful segments based on income, age, and spending patterns, providing valuable insights for marketing and customer targeting.
+## 📁 Folder Structure
+customer-segmentation-kmeans/
+├── data/
+│ └── mall_customers.csv
+├── notebooks/
+│ └── Customer_Segmentation_KMeans.ipynb
+├── requirements.txt
+├── README.md
+└── .gitignore
+
+markdown
+Copy code
 
 ## 🚀 How to Run
-1. Download the dataset from Kaggle
-2. Place `Mall_Customers.csv` in the project folder
-3. Open and run the Jupyter Notebook
+1. Clone the repository
+2. Install dependencies:
+```bash
+pip install -r requirements.txt
+Open Jupyter Notebook:
 
-## 📌 Author
+bash
+Copy code
+jupyter notebook notebooks/Customer_Segmentation_KMeans.ipynb
+Run all cells
+
+👤 Author
 Hassan Ali
