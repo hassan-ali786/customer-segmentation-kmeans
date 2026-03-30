@@ -106,6 +106,6 @@ jupyter notebook notebooks/Customer_Segmentation_KMeans.ipynb
 ## Author
 
 Hassan Ali  
-Aspiring Data Scientist and Machine Learning Engineer  
+Data Scientist and Machine Learning Engineer  
 
 GitHub: https://github.com/Hassan-Ali786
