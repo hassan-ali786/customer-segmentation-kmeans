@@ -74,7 +74,7 @@ customer-segmentation-kmeans/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Hassan-Ali786/customer-segmentation-kmeans.git
+git clone https://github.com/hassan-ali786/customer-segmentation-kmeans.git
 cd customer-segmentation-kmeans
 ```
 
@@ -108,4 +108,4 @@ jupyter notebook notebooks/Customer_Segmentation_KMeans.ipynb
 Hassan Ali  
 Data Scientist and Machine Learning Engineer  
 
-GitHub: https://github.com/Hassan-Ali786
+GitHub: https://github.com/hassan-ali786
