@@ -41,7 +41,6 @@ It follows a complete data analysis and unsupervised ML workflow:
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-007D9C?style=flat&logo=matplotlib&logoColor=white)  
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)  
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)  
-
 ---
 
 ## Methodology
