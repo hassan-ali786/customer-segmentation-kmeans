@@ -52,7 +52,7 @@ It follows a complete data analysis and unsupervised ML workflow:
 ```bash
 customer-segmentation-kmeans/
 ├── data/
-│   └── mall_customers.csv
+│   └── Mall_Customers.csv
 ├── notebooks/
 │   └── Customer_Segmentation_KMeans.ipynb
 ├── requirements.txt
