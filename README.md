@@ -5,6 +5,13 @@ The goal is to group customers based on annual income, spending score, and age t
 
 ---
 
+## Video Demo
+
+<video src="https://github.com/user-attachments/assets/36d83d2f-e562-4190-b2c0-4e86e3ff7e93" width="100%" controls></video>
+
+
+---
+
 ## Project Overview
 
 This project analyzes customer data to identify distinct segments using K-Means clustering.  
